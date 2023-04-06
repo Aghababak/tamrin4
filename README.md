@@ -1,4 +1,4 @@
 # tamrin4
 چهارمین تمرین من درباره طراحی بوردرها
 ---
-[screenshot](General.html)
+![screenshot](IMG_20230406_230233_209.jpg)
